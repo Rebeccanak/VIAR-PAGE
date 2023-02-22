@@ -1,0 +1,53 @@
+.div1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#buttonblue{
+    border: 5px solid purple;
+    background-color: blue;
+    padding: 1px 2px 3px;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: large;
+    
+}
+#logo1{
+    color: blueviolet;
+}
+.div2{
+    margin-top: -10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 10px;
+
+}
+#head1{
+    color: blueviolet;
+    
+}
+#head2{
+    color: black;
+}
+
+li{
+    display: inline-block;
+    list-style-type: none;
+    font-size: x-large;
+    padding:15px 25px;
+}
+#but1{
+border-radius: 0px;
+border: none;
+
+}
+#image{
+    position: absolute;
+    margin-left: 55%;
+    margin-top: -25%;
+    
+    
+}
+#
+
